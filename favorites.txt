@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 lahmacun
 burger
 iskender
+=======
+matrix
+kaybedenler kulubu
+harry potter
+>>>>>>> movies
